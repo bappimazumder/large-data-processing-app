@@ -11,7 +11,6 @@ Technology
 7) Maven
 
 After running you will load this link
-
 http://localhost:8084/
 Then click on the link "Click to process the data"
 Wait for a few seconds it will show this message
