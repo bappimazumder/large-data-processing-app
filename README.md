@@ -17,4 +17,5 @@ Wait for a few seconds it will show this message
 
 Total process execution time 22 seconds
 
+Output files will be found in the project directory output folder
 
