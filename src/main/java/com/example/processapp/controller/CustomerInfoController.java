@@ -49,6 +49,7 @@ public class CustomerInfoController {
      */
     @GetMapping("/importCustomers")
     public ModelAndView importCustomerTextToDB() {
+        logger.info("Process Start");
         ModelAndView modelAndView = new ModelAndView();
         JobParameters jobParameters = new JobParametersBuilder()
                 .addLong("JobID", System.currentTimeMillis()).toJobParameters();
@@ -60,7 +61,7 @@ public class CustomerInfoController {
             modelAndView.addObject("executionTime",timeElapsed.getSeconds());
         } catch (JobExecutionAlreadyRunningException | JobRestartException | JobInstanceAlreadyCompleteException |
                  JobParametersInvalidException e) {
-            e.printStackTrace();
+            logger.error(e.getMessage());
         }
         modelAndView.setViewName("home");
         return modelAndView;
