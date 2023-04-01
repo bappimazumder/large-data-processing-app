@@ -1,0 +1,59 @@
+id,firstName, lastName, email,phoneNumber,city, country, zipCode, ipAddress
+1,Wil,,wil.@yahoo.com,8505287231,Tallahassee,FL,32308,217.140.110.105
+2,Moses,,moses.@qwest.net,7577298585,Virginia beach,VA,23451,66.227.233.66
+3,Judy,Norrman,jnorrman@netzero.net,95460489,Pompano beach,FL,33065,208.99.222.52
+4,Angela,,angela.@uswest.net,4435706472,Baltimore,MD,21218,65.39.230.234
+5,Tara,,tara.@msn.com,5208082631,Tucson,AZ,85711,65.244.41.215
+6,Alida acezedo,,alidaacezedo.@yahoo.com,7322774123,Perth amboy,NJ,8861,71.214.91.208
+7,Arnold,Gilbert,dlibra95@yahoo.com,77021026,Jonesboro,GA,30238,168.82.82.223
+8,Joseph erain,,josepherain.@yahoo.com,2704011985,Elizabethtown,KY,42701,192.231.201.111
+9,Alma,,alma.@peoplepc.com,7277415091,Tarpon springs,FL,34689,192.195.16.87
+10,Marquita,Curtis,cmarquita23@yahoo.com,77388734,Chicago,IL,60644,209.249.50.3
+11,Analyn,,analyn.@yahoo.com,5203310285,Tucson,CA,85747,72.3.166.68
+12,Charise,,charise.@msn.com,5303565336,Mccloud,CA,96057,213.61.4.138
+13,Donna,,donna.@qwest.net,8058575917,Thousand oaks,CA,91360,216.198.251.17
+14,Ron,Bruderer,n7erh@q.com,3078772280,Diamondville,WY,83116,69.90.99.55
+15,Raafat,kennet,raafat.@msn.com,9096453188,Loma linda,CA,92354,204.246.145.189
+16,Chase,Heighton,hechase@q.com,4802888808,Apache junction,AZ,85220,192.152.161.90
+17,Rose,kennet,rose.@netzero.net,3609811092,Bremerton,WA,98312,192.5.34.55
+18,Carl,Karaba,karaba3@q.com,5093250185,Spokane,WA,99205,216.187.69.120
+19,Mackenzie,,mackenzie.@yahoo.com,4804306583,Mesa,AZ,85208,72.32.169.42
+20,Javier,Jimenez,javier.jimenez@msn.com,80572004,Santa maria,CA,93458,192.67.228.207
+21,Lola,,lola.@rochester.rr.com,2512691837,Foley,AL,36535,212.118.254.92
+22,Klaus,,klaus.@worldnet.att.net,8479802028,Winnetka,IL,60093,72.32.153.85
+23,Charity,,charity.@netzero.net,6603410427,Edina,MO,63537,198.133.73.116
+24,Evelyn,,evelyn.@yahoo.com,4027143848,Omaha,NE,68105,64.37.66.128
+25,Fabian,,fabian.@yahoo.com,6468311710,Jackson heights,NY,11372,64.5.224.88
+26,Hamilton nora,,hamiltonnora.@netscape.net,5127755124,Austin,TX,78758,207.226.172.197
+27,Sayeda,,sayeda.@yahoo.com,5712651773,Manassas,VA,20111,196.4.54.143
+28,Tim,,tim.@myway.com,9016193933,Memphis,TN,38118,209.28.97.215
+29,matt,roy,savadie@q.com,8017216334,west point,ut,84015,216.151.222.205
+30,Betty,Kelly,kellysnowbirds@q.com,3074722132,Casper,WY,82609,66.132.250.77
+31,Rodney,,rodney.@msn.com,6156429587,Nashville,TN,37211,66.220.198.234
+32,Christopher,Corso,corsoabpdvc@q.com,7202299659,Denver,CO,80219,65.175.98.83
+33,Robert,Ramsey,r.sramsey@yahoo.com,94082570,Nocona,TX,76255,66.24.200.155
+34,Lakiya,,lakiya.@yahoo.com,8503457744,Tallahassee,FL,32303,69.79.123.217
+35,Tammy,,tammy.@rochester.rr.com,7078494824,Windsor,CO,95492,207.234.149.116
+36,Dietrich,Gibson,dietrichcg@yahoo.com,84368795,Salters,SC,29590,192.53.9.64
+37,Mike,Petraitis,mjpekim@msn.com,76020050,La quinta,CA,92253,161.31.135.89
+38,Tamar,Luckey,tluck1781@yahoo.com,940613769,Wichita falls,TX,76302,192.188.152.139
+39,Ryan,,ryan.@rochester.rr.com,6413444714,Creston,IA,50801,205.218.95.131
+40,Ammar,,ammar.@yahoo.com,5126220109,Austin,TX,78749,192.86.136.226
+41,Azer,,azer.@yahoo.com,5203495373,Tucson,AZ,85716,63.109.248.54
+42,Jean,Botchek,hairjeannie@q.com,5094872178,Spokane,WA,99217,209.88.102.65
+43,James,Vaughn,james0508@q.com,7207481681,Denver,CO,80231,198.180.108.247
+44,Clinton,Fortner,clint_fortner@yahoo.com,97297733,Roanoke,TX,76262,72.32.44.92
+45,Linda,Bohannan,ybnice47@yahoo.com@yahoo.com,3094424009,Brimfield,IL,61517,213.61.48.225
+46,Robert,Patton,robert.patton@yahoo.com,203655834,Darien,CT,6820,207.189.26.190
+47,Karen,,karen.@ptd.net,7135827185,Dickinson,TX,77539,195.112.185.105
+48,Mari,,mari.@peoplepc.com,7737505145,Chicago,IL,60639,64.69.91.226
+49,Jimmy f johnson,Jimmyf johnson,popajimo.k.@yahoo.com,5805354776,Granite,OK,73547,212.63.188.9
+50,Gregory,Farrar,kellumgrey@yahoo.com,91894966,Tulsa,OK,74105,192.52.62.176
+51,marrisa,pedersen,crazygirl@q.com,4802048639,apache junction,az,85220,65.39.199.91
+52,Laurel,,laurel.@rcn.com,7242175234,Greensburg,PA,15601,66.212.202.180
+53,Ken,,ken.@netscape.net,4694465340,Little elm,TX,75068,192.175.8.72
+54,Samantha,,samantha.@onebox.com,5597364681,Visalia,CA,93292,208.205.101.208
+55,Hgf,,hgf.@yahoo.com,8176755687,Gfhjdt,TX,76056,195.112.188.7
+56,Latifa,,latifa.@sprintmail.com,4074841043,Orlando,FL,32836,207.117.172.127
+57,John,Mcnatt,jmcnatt@q.com,2088950286,Meridian,ID,83680,76.226.169.166
+58,Ckamei,Jaihol,kcanei_eui@yahoo.com,125564165,Turmann,AR,72472,69.13.135.252
