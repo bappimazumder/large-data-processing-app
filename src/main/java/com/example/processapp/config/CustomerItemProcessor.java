@@ -18,7 +18,7 @@ public class CustomerItemProcessor implements ItemProcessor<CustomerInfo,Custome
     private Set<CustomerInfo> seenCustomers = new HashSet<>();
 
     @Override
-    public   CustomerInfo process(CustomerInfo customerInfo) throws Exception {
+    public synchronized CustomerInfo process(CustomerInfo customerInfo) throws Exception {
         if(seenCustomers.contains(customerInfo)) {
              return null;
         }else if(emailValidation(customerInfo.getEmail()) == false
